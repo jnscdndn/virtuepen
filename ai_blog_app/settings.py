@@ -88,7 +88,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'virtuepen',
         'USER': 'root',
-        'PASSWORD': 'sree123sree',
+        'PASSWORD': 'Your_password',
         'HOST': '127.0.0.1',
         'PORT': '3306',
         'OPTIONS': {
